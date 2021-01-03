@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 10,
+      "title": "duc",
+      "name": "sieu nhan"
+    },
+    {
+      "title": "duc",
+      "name": "sieu nhan",
+      "id": 11
+    },
+    {
+      "title": "duc",
+      "name": "sieu nhan",
+      "id": 12
+    },
+    {
+      "title": "duc",
+      "name": "sieu nhan",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Xayah",
+      "image": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-xr-duo-reveal/en_US/8d5e6e779309988804ba564ea5742649b83dc66b/assets/img/X_R_WALLPAPER_LOGO_SPLASH_1920X1080.jpg",
+      "price": "6300"
+    },
+    {
+      "id": "2",
+      "name": "Tristana",
+      "image": "https://lienminh.garena.vn/images/champions/skin/18_Tristana/0.jpg",
+      "price": "1350"
+    },
+    {
+      "id": "3",
+      "name": "Sleek Frozen Chips",
+      "image": "https://lienminh.garena.vn/images/champions/skin/222_Jinx/0.jpg",
+      "price": "6300"
+    },
+    {
+      "id": "in79vldad",
+      "name": "Master Yi",
+      "price": "450",
+      "image": "https://lienminh.garena.vn/images/champions/skin/11_MasterYi/0.jpg"
+    },
+    {
+      "id": "0emwkk4wn",
+      "name": "Nunu",
+      "price": "450",
+      "image": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-champion-nunu/en_US/186f38e828dfc5cc411f9d84bdae6b7b4ce2d1f0/assets/img/content/nunu/wallpaper/NunuSplash.jpg"
+    },
+    {
+      "id": "fzcnlqt63",
+      "name": "Yasuo",
+      "price": "6300",
+      "image": "https://lienminh.garena.vn/images/champions/skin/157_Yasuo/0.jpg"
+    },
+    {
+      "id": "v7od3birf",
+      "name": "Kog' maw",
+      "price": "4800",
+      "image": "https://lienminh.garena.vn/images/champions/skin/96_KogMaw/0.jpg"
+    },
+    {
+      "id": "19nfffe9e",
+      "image": "https://lienminh.garena.vn/images/champions/skin/59_JarvanIV/0.jpg",
+      "name": "Javan",
+      "price": "4800"
+    }
+  ]
+}
